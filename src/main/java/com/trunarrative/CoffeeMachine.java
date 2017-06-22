@@ -9,6 +9,7 @@ public class CoffeeMachine {
     public void takeCoffee() {
         if (started) {
             coffeeServed = true;
+
         }
     }
 }
